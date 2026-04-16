@@ -39,7 +39,7 @@ latency. Designed for scalability, multi-user mixing, and low-lag audio pipeline
         "Audio Streaming",
       ],
       image: discordImg,
-      link: "https://github.com/yb-thai/Discord-voice-relay",
+      link: "https://github.com/thai-yan/Discord-voice-relay",
     },
     {
       name: "Personal Portfolio Website",
@@ -48,7 +48,7 @@ latency. Designed for scalability, multi-user mixing, and low-lag audio pipeline
         "A modern, responsive portfolio website built using React and GitHub Pages. Designed to showcase engineering background, technical experience, and projects. The site features a clean layout, smooth navigation, and a fully optimized mobile experience.",
       tech: ["React", "GitHub Actions", "GitHub Pages", "CSS"],
       image: portfolioImg,
-      link: "https://github.com/yb-thai/Portfolio-Website",
+      link: "https://github.com/thai-yan/Portfolio-Website",
     },
     {
       name: "Qt Dashboard UI",
@@ -57,7 +57,7 @@ latency. Designed for scalability, multi-user mixing, and low-lag audio pipeline
         "A desktop dashboard interface built using Qt Creator, designed with a clean and modern user experience. Includes sidebar navigation, card components, and responsive panel layouts for showcasing data or application controls.",
       tech: ["Qt Creator", "C++", "UI/UX Design", "QML", "Qt Framework"],
       image: qtImg,
-      link: "https://github.com/yb-thai/Qt-Creator-DashboardUI",
+      link: "https://github.com/thai-yan/Qt-Creator-DashboardUI",
     },
     
   ];

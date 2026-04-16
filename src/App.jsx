@@ -95,7 +95,7 @@ const App = () => {
           {/* Social icons at bottom-left */}
           <div className="sidebar-socials">
             <a
-              href="https://github.com/yb-thai?tab=repositories"
+              href="https://github.com/thai-yan?tab=repositories"
               aria-label="GitHub"
               target="_blank"
               rel="noreferrer"
