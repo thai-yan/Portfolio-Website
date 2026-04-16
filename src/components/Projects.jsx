@@ -1,10 +1,27 @@
 import React from "react";
 import discordImg from "../assets/discord.jpg";
+import khmerTransliteratorImg from "../assets/khmer-transliterator.png";
 import portfolioImg from "../assets/portfolio.png";
 import qtImg from "../assets/QT.png";
 
 const Projects = () => {
   const projects = [
+    {
+      name: "Khmer Transliterator",
+      role: " ",
+      description:
+        "A cross-platform Khmer input and transliteration system that converts Latin romanization into Khmer script using a custom Transformer-based pipeline. The project includes training and export tooling plus native targets for web, Android, iOS, macOS, Windows, and RIME/Keyman keyboard workflows.",
+      tech: [
+        "Python",
+        "PyTorch",
+        "Docker",
+        "Flask",
+        "ONNX",
+        "CoreML",
+      ],
+      image: khmerTransliteratorImg,
+      link: "https://khmertransliteration.tkapps.dev/",
+    },
     {
       name: "Discord Voice Relay System",
       role: " ",
